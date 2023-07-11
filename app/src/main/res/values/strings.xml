@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoDatabaseCRUDL9</string>
+    <string name="enter_data_to_be_inserted_here">enter data to be inserted here:</string>
+    <string name="insert">INSERT</string>
+    <string name="edit">EDIT</string>
+    <string name="retrieve">RETRIEVE</string>
+</resources>
